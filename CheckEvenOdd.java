@@ -1,5 +1,6 @@
 import java.util.Scanner;
 //class is defined
+//package
 class CheckEvenOdd
 {
   public static void main(String args[])
