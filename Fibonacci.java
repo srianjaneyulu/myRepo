@@ -1,4 +1,5 @@
 //Class is defined
+//package is defined
 class Fibonacci
 {
 	public static void main(String args[])
