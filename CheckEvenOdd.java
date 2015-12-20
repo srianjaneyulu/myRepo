@@ -17,5 +17,6 @@ class CheckEvenOdd
         System.out.println("Entered number is even");
      else
         System.out.println("Entered number is odd");
+//Successfully completed
   }
 }
